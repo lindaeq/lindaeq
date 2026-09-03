@@ -5,6 +5,8 @@
 - linkedin: https://www.linkedin.com/in/lnda-qi/
 - devpost: https://devpost.com/lindaqi284?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
+🍥
+
 <!--
 **lindaeq/lindaeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
