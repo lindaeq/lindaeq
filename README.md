@@ -1,4 +1,4 @@
-## hi!! i'm linda
+## hey! i'm linda
 
 ꔫ computer science @ uwaterloo
 
