@@ -1,21 +1,14 @@
-## hey! i'm linda
+## hey! i'm linda ꔫ
 
-ꔫ computer science @ uwaterloo
+computer science @ uwaterloo 🇨🇦
 
-- linkedin: https://www.linkedin.com/in/lnda-qi/
-- devpost: https://devpost.com/lindaqi284?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Devpost](https://shields.io)](https://devpost.com)
+[![GitHub](https://shields.io)](https://github.com)
 
-<!--
-**lindaeq/lindaeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ fun facts
+* 🧸 i own 6 dundun plushies
+* 🦉 i have a 700+ day duolingo streak
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 github stats
+![Linda's GitHub stats](https://vercel.app)
