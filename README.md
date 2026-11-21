@@ -2,13 +2,10 @@
 
 computer science @ uwaterloo 🇨🇦
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Devpost](https://shields.io)](https://devpost.com)
-[![GitHub](https://shields.io)](https://github.com)
+[<kbd>　💼 LinkedIn　</kbd>](https://linkedin.com) 
+[<kbd>　🚀 Devpost　</kbd>](https://devpost.com) 
+[<kbd>　💻 GitHub　</kbd>](https://github.com)
 
 ### ✨ fun facts
 * 🧸 i own 6 dundun plushies
 * 🦉 i have a 700+ day duolingo streak
-
-### 🌸 github stats
-![Linda's GitHub stats](https://shion.dev)
