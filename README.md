@@ -11,4 +11,4 @@ computer science @ uwaterloo 🇨🇦
 * 🦉 i have a 700+ day duolingo streak
 
 ### 🌸 github stats
-![Linda's GitHub stats](https://vercel.app)
+![Linda's GitHub stats](https://shion.dev)
